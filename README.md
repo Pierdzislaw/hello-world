@@ -1,4 +1,4 @@
 # hello-world
-opis repo
 
-pierdololo w pierwszym branch
+
+pierdololo w drugim branch
